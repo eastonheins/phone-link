@@ -1,0 +1,11 @@
+{
+  "name": "Phone Link",
+  "short_name": "Phone Link",
+  "description": "Personal Device Workspace",
+  "start_url": "/phone-link/",
+  "scope": "/phone-link/",
+  "display": "standalone",
+  "background_color": "#0b0d12",
+  "theme_color": "#0b0d12",
+  "orientation": "portrait"
+}
